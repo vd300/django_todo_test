@@ -8,4 +8,5 @@
 
 4.Start the server ->python manage.py runserver
 
-5.In the browser follow http://127.0.1.1:8000
+5.In the browser follow http://127.0.0.1:8000
+
